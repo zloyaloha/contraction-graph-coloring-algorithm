@@ -23,3 +23,5 @@ with open(file, "r+") as f:
     for line in res[1].nodes(data = 'color', default=1):
         copyLine = " ".join((str(line[0]), colorsList[int(line[1])],))
         f.write(copyLine + "\n")
+    f.write("<Text>\nChromatic number of graph is X(G) = " + str(res[0]))
+    
