@@ -1,7 +1,7 @@
 # Contraction graph coloring algorithm
 Final part of discrete math's course project. Сontraction graph coloring algorithm. The discription of the algorithm you can find in file "Отчет по курсовой.docx"
 
-##Examples of working
+## Examples of working
 
 <img src="examples/1.jpg" width="400" height="200"/>
 <img src="examples/2.jpg" width="400" height="200"/>
